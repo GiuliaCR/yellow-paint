@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yellow Paint - Oratorio</title>
+    <link rel="stylesheet" href="./css/style.css" type="text/css">
+</head>
+<body>
+  
+    <div id="content">
+		<div class="inner">
+            <p>As the name might suggest, <spec>ProgramMigrating Language(pML)</spec> is a fictitious programming language conceived to express feelings of migration, movement and the linguistic shifts associated with them. Within esolangs, “multicoding” is the idea that “one text holds multiple meanings, depending on context” (Temkin, 2020). Examples of multicoding are polyglots: computer programs that can be interpreted and executed in multiple programming languages (Temkin, 2018). With <spec>ProgramMigrating Language</spec> I tried to create a polyglot code that can be read in multiple human languages instead: keywords are created in a shifting mix of Italian and English. The code can assume different meanings, based on the reader’s own interpretation and knowledge; it supports the coexistence of multiple, sometimes opposite, meanings and perspectives, while being rooted in my personal experience (reinforced by the presence of my own poetry in the comments, breaking the flow of the code). Following micha cárdenas’ example, I endeavoured to write algorithms as a representation of the moving, shifting and adjusting relationship between the complex linguistic intersections of my identity. </p>
+		<img src="images/dither_twine-screenshot1.png" alt="screenshot from the interactive essay showing an else if statement where the false friends are interpreted as a third mysterious language, a lingua ignota which clears the slate, equalise the struggle and makes the unknown state universale.">
+    </div>
+    </div>
+</body>
+</html>
+<script src="script.js"></script>
