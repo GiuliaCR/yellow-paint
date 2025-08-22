@@ -127,7 +127,7 @@ blockquote {
 	font-family: "OpenSansLight";
 	padding: 2% 2% 2% 24%;
 	line-height: 1.7;
-	float: left;
+	float: center;
 	width: 70%;
     height: 100%;
     display: block;
