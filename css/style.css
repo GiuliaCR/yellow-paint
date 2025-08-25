@@ -7,6 +7,11 @@
 	src: url('../css/OpenSans-Light.ttf');
 }
 
+@font-face {
+	font-family: "Press Start 2P";
+	src: ('../css/PressStart2P.ttf');
+}
+
 
 h1, h2, h3, h4, h5, h6 {
     color: #000;
@@ -70,6 +75,15 @@ td, td img {
 td, th {
     border: solid 1px #999;
     padding: 0.25em 0.5em;
+}
+//text for beginning
+.videogametext {
+  	font: italic 30px cursive;
+  	font: 30px "Press Start 2P";
+	display: inline-block;
+	position: relative;
+ 	line-height: 1.6;
+	top: 4px;
 }
 
 th {
