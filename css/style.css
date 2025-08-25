@@ -9,7 +9,7 @@
 
 @font-face {
 	font-family: "Press Start 2P";
-	src: ('../css/PressStart2P.ttf');
+	src: url('../css/PressStart2P.ttf');
 }
 
 
