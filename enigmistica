@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yellow Paint - Enigmistica</title>
+    <link rel="stylesheet" href="./css/style.css" type="text/css">
+</head>
+<body>
+  
+    <div id="content">
+		<div class="inner">
+			<img src="images/universe.PNG" alt="a rendition of Hildegard von Bingen's painting of the universe, made with ASCII characters.">
+            <p><i>La Settimana Enigmistica</i> is a weekly Italian crossword puzzles magazine. It's been running for 94 years consecutively, published every Thursday.</p>
+		<img src="images/hildegard-richardis.PNG" alt="a portrait of Hildegard voon Bingen and Richardis made with ASCII characters.">
+     	</div>
+	</div>
+</body>
+</html>
