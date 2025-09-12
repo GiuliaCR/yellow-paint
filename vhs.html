@@ -9,8 +9,28 @@
 <body>
     <div id="content">
         <div class="inner">
-            <p>An interactive essay including the <spec>falseFriends.cpp</spec> interactive poem, as well as more of the research and thinking behind the writing, was published as part of <a href="https://thehtml.review/03/#giulia-carla-rossi">the HTML review</a> Issue 03 and is available <a href="https://thehtml.review/03/false-friends/">here</a>.</p>
-         <a href="https://thehtml.review/03/#giulia-carla-rossi"><img src="images/HTMLReview-Issue03.gif" alt="gif showing the webpage for Issue 03 of the HTML Review. The background is a soft cotton pink and the contents wheel on the left of the screen keeps spinning until it stops on 'Giulia Carla Rossi, FalseFriends.cpp, Interactive Essay'. A code editor blinks on the side of the title."></a>
+            
+            <div style="text-align:center"> 
+              <video id="video1" width="420">
+                <source src="images/VHS_Rewind.mp4" type="video/mp4">
+                Your browser does not support HTML video.
+              </video>
+                <br><br>
+                  <button onclick="playPause()">⏮REWIND</button> 
+             </div> 
+
+            <script> 
+            var myVideo = document.getElementById("video1"); 
+            
+            function playPause() { 
+              if (myVideo.paused) 
+                myVideo.play(); 
+              else 
+                myVideo.pause(); 
+            } 
+            </script> 
+
+        <p>Rewinding through my childhood videos I try to spot signs of what’s to come. Did my younger self already know who she would have become? Where she would have gone? Who she would have loved? </p>
         </div>
     </div>
 </body>
